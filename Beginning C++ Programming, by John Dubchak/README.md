@@ -10,3 +10,9 @@
 8. [The Standard Template Library](08. The Standard Template Library.md)
 9. [Error Handling in C++](09. Error Handling in C++.md)
 10. [Makefiles](10. Makefiles.md)
+
+### Recommended C++ resources
+* www.cplusplus.com
+* www.cppreference.com
+* isocpp.org
+* john@johndubchak.com
